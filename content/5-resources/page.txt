@@ -1,0 +1,95 @@
+Title: Resources
+
+----
+
+Text: ### Sketch 3
+(link: http://bohemiancoding.com/sketch/ text: Buy Sketch 3)
+(link: https://designcode.io/sketch text: Learn Sketch 3)
+(link: resources/sketch-samples.zip text: Downloadable Zip of Sketch Examples)
+(link: https://medium.com/sketch-app/typography-in-sketch-3-linked-text-styles-9946a32af688#.ussxtymdo text: Typography in Sketch 3: Linked Text Styles)
+(link: http://www.sketchtips.info/articles/how-to-make-a-layout-grid text: How to Make a Layout Grid Text)
+
+###InVision
+(link: http://www.invisionapp.com text: InVision Website)
+(link: http://www.invisionapp.com/tethr text: Tethr)
+(link: https://dribbble.com/invisionapp text: Invision Team's Dribbble)
+
+###Framer.js
+(link: http://www.stakelon.com/2014/04/hello-framer-getting-started-with-framer-js/ text: Getting Started with Framer.js)
+(link: http://examples.framerjs.com/#animation-basics.framer text: Framer Examples)
+(link: resources/framer-samples.zip text: Downloadable Zip of Framer Examples)
+(link: http://framer.camp/ text: Framer Camp)
+
+###Keynote
+(link: http://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCwQFjAA&url=http%3A%2F%2Fkeynotopia.com%2Fguides%2F&ei=pqLFVO_kCffasASFoICAAQ&usg=AFQjCNFjYcelbGrojG1ifEkTp6ZN5UiNjw&sig2=_OQZ_2KxZftgu8lfwarepw&bvm=bv.84349003,d.cWc text: Creating Interactive Prototypes in Keynote)
+(link: http://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CDIQFjAB&url=http%3A%2F%2Frobots.thoughtbot.com%2Fanimating-with-keynote&ei=pqLFVO_kCffasASFoICAAQ&usg=AFQjCNF6u5rixNwjftqk58RWMNqryXDJOA&sig2=FnD-DSY6HmxH5DXMGR7VOg&bvm=bv.84349003,d.cWc text: Prototyping Animation with Keynote)
+(link: http://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0CDgQFjAC&url=http%3A%2F%2Fwebdesign.tutsplus.com%2Ftutorials%2Fhow-to-demo-an-ios-prototype-in-keynote--cms-22279&ei=pqLFVO_kCffasASFoICAAQ&usg=AFQjCNEdSRdnGZAMXivVYQbzyKcU-e8RRQ&sig2=s0UUXBNZgUAs9plGwtJ-cA&bvm=bv.84349003,d.cWc text: Keynote Rapid Prototyping)
+(link: resources/keynote-demo.zip text: Downloadable Keynote Prototyping Demo)
+
+### HTML
+(link: http://www.w3schools.com/tags/tag_video.asp text: HTML5 Video)
+
+### CSS
+(link: http://sass-lang.com text: SASS)
+(link: http://lessframework.com text: LESS Framework)
+(link: http://asciimoo.github.io/cssplot/ text: Pure CSS Plots)
+(link: http://codyhouse.co text: Cody)
+(link: http://www.creativebloq.com/css3/avoid-css-mistakes-10135080 text: 10 Mistakes To Avoid)
+(link: http://www.css3maker.com/css3-animation.html text: CSS3 Maker)
+(link: http://www.createcss3.com/ text: Create CSS3)
+(link: http://matthewlein.com/ceaser/ text: CSS Easing Animation Tool)
+(link: http://css-tricks.com/snippets/ text: Code Snippets)
+(link: http://tympanus.net/codrops/2013/05/07/a-collection-of-page-transitions/ text: Page Transitions)
+(link: http://webdesignerwall.com/tutorials/css3-image-styles text: Image Styles)
+(link: http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/ text: CSS Animations)
+
+### jQuery/Javascript
+(link: http://luke.sno.wden.co.uk/full-screen-vertical-scroll text: FullScreen Vertical Slider)
+(link: http://mknecht.github.io/gridscrolling.js/ text: Grid Scrolling)
+(link: http://tympanus.net/Development/OffCanvasMenuEffects/ text: Off Canvas Menus)
+(link: http://scrollme.nckprsn.com text: ScrollMe)
+(link: http://yyx990803.github.io/zoomerang/ text: Zoomerang.js)
+(link: http://www.webmuse.co.uk/blog/jquery-plugin-to-animate-scrolling-to-anchor/ text: Animate Scrolling Anchor)
+(link: http://www.speakker.com text: Ascensor)
+(link: http://codecanyon.net/item/revolver-sliding-website-plugin/full_screen_preview/2278396 text: Revolver)
+(link: http://www.kyrielles.net/sliderkit/demos/content-sliders.html text: Slider Kit)
+(link: http://codevisually.com/jquery-scroll-path-a-plugin-for-defining-custom-scroll-paths/ text: Scroll Path)
+(link: http://atelierfolklore.ca text: Atélier Folklore)
+(link: http://jqueryui.com/draggable/ text: Draggable UI)
+(link: http://weepy.github.io/jquery.path/ text: Path Animation)
+(link: http://www.ericmmartin.com/projects/simplemodal-demos/ text: Simple Modal Window)
+(link: http://www.jquery4u.com/demos/jquery4u-parallax-demo/ text: jQuery 4u)
+(link: http://api.jquery.com/hide/ text: .hide)
+(link: http://www.smple.com/pagePeel/ text: jQuery Page Peel)
+(link: http://jquery.michaeleisenbraun.com/guardian/ text: Guardian Form maker)
+
+### Bootstrap
+(link: http://fezvrasta.github.io/bootstrap-material-design/ text: Material Design)
+(link: http://marketblog.envato.com/resources/bootstrap-admin-templates/ text: Admin Templates)
+
+### Great Websites
+(link: http://benthebodyguard.com/index.php text: Ben The Bodyguard)
+(link: http://jessandruss.us text: Jess & Russ)
+(link: http://www.dontfeartheinternet.com text: Don't Fear The Internet)
+(link: http://www.vsco.co text: Visual Supply Co.)
+(link: http://www.cabletv.com/the-walking-dead text: The Walking Dead)
+(link: http://nasaprospect.com text: NASA Project)
+
+### Typography
+(link: http://practice.typekit.com text: Typekit Practice)
+(link: http://webplatform.adobe.com/dropcap.js/ text: Dropcap.js)
+(link: http://www.typegenius.com text: Learn how to combine fonts)
+(link: http://snook.ca/archives/html_and_css/font-size-with-rem text: Font Sizing with rems)
+(link: https://ia.net/know-how/the-web-is-all-about-typography-period text: We Design is 95% Typography)
+(link: http://youngsuncompton.com/a-sans.html text: A-Sans)
+
+### Assets
+(link: http://adamwhitcroft.com/wirekit/ text: Wirekit)
+(link: resources/wireframekit.zip text: Wireframe Kits for Illustrator and Sketch)
+(link: http://blog.froont.com/9-basic-principles-of-responsive-web-design/ text: Basic Principles of Responsive Design)
+(link: http://marketblog.envato.com/tips/tips-designers-dont-code/ text: Tips for Designers Who Don't Code)
+(link: http://svgicons.sparkk.fr text: SVG Icons)
+(link: http://maxwellito.github.io/vivus/ text: SVG Drawing)
+(link: http://marinad.com.ar/free-minimal-loop-preloaders/ text: Minimal Preloaders)
+(link: http://coolors.co/intro/ text: Coolors)
+(link: http://www.materialup.com text: Material Up)

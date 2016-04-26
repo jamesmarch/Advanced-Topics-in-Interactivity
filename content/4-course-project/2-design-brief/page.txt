@@ -1,0 +1,19 @@
+Title: Design Brief
+
+----
+
+Text: Define a problem area in human-computer interaction where you envision making a contribution.<br /> 
+—What are the pain points? What is the need for this product to exist?
+—How could things be improved? 
+—Who is your audience?
+—What device(s) can this be deployed on?<br />
+Your design brief should contain the following:
+—Title page
+—Demonstration of problem (images, video)
+—Problem Statement
+—Problem Description
+—Constraints (e.g., time, physical)
+—Needs of the Problem (e.g., why should this exist?)
+—Goals (e.g., make composting easier)
+—What you plan to accomplish (e.g., high-fidelity prototype?)<br />
+This brief should be maximum 5 pages.

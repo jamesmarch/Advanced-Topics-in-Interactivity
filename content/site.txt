@@ -1,0 +1,26 @@
+Title: YSDN 4003—Advanced Topics in Interactivity
+
+----
+
+Author: James March
+
+----
+
+Description: FA/YSDN 4003 (S)<br />
+F 13:30 - 17:30<br />
+J219<br />
+<br />
+This site is the learning space for Interactive Systems Design 4003. It serves as the central meeting point for projects, updates, scheduling, resources, commentary and any other relevant class material. It will also provide access to all students documenting their course process.
+
+----
+
+Keywords: Kirby CMS,Theme,phtgrph,slideshow
+
+----
+
+Copyright: cc 2016 <a href="mailto:james.march@sheridancollege.ca">James March</a><br />
+<a href="http://getkirby.com" target="_blank">Kirby 2.0.4</a><br />
+
+----
+
+Logo: /assets/images/YourLogo.jpg

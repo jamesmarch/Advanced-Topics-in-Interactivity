@@ -1,0 +1,20 @@
+Title: Competitive Analysis
+
+----
+
+Text: What current products occupy a similar space your product's category? What problems are they trying to solve?<br />
+The answers to these questions will offer deeper insights into your chosen problem area. Investigation and analysis of current products will help you learn what they do really well and why, and where they fall short.<br />
+Each team member is required to identify and analyze 3–4 products/services that relate to his or her project.<br />
+Look for products that are thematically or conceptually similar from an interactive standpoint.<br />
+Examine these works from multiple perspectives. By considering the visual treatment, interactions and overall user experience, it is hoped that you will identify significant opportunities and new challenges.<br />
+Each example should include the following:<br />
+*Brief Description*
+— What is it?
+— Who uses it
+— Why do they use?
+— In what context?<br />
+*Analysis Consideration*
+Visual Design – what does it look like? Does it adhere to the platform's human interface guidelines? Does the visual design reinforce the product goals? Does the interface encourage user behaviour? Consider how typography, colour, composition and iconography contribute to the product goals.<br />
+Interaction – effectiveness, utility; how well does it work? how does the user interface support the intended goals?<br />
+*Synthesis*
+Gather and integrate your findings in a well written and organized analysis. Consider the use images/screen shots to support your ideas. Be sure to list any cited materials.

@@ -1,0 +1,20 @@
+Title: High Fidelity Prototypes
+
+----
+
+Text: Develop a High Fidelity prototype of your product. This includes developing a clear visual language that works across the product to address the stated goals, problem space and user needs (see your Design Brief). <br />
+This prototype should be  visually refined to consider typography, hierarchy, colour, icons and user interface elements. The graphics should be pixel-perfect, scalable and usable for the targeted device(s). <br />
+Consider the changing states of your product and how the visuals support the user through the various stages of interaction. Develop the screens with ideal content in order to demonstrate a user scenario. <br />
+**Prototyping Tools**
+- (link: http://www.adobe.com/ca/products/experience-design.html text: Adobe Experience Design)
+- (link: http://pixate.com text: Pixate) 
+— (link: http://www.pixate.com/education/video-tutorials/ text: Video Tutorials)
+- (link: http://proto.io text: Proto.io)
+- (link: http://framerjs.com text: Framer)
+- (link: https://facebook.github.io/origami/ text: Origami)
+- (link: http://www.relativewave.com/form/ text: Form)
+- (link: http://www.invisionapp.com/form/ text: InVision) 
+— (link: https://projects.invisionapp.com/d/main#/learn text: InVision Tutorials) 
+— (link: http://www.invisionapp.com/tethr text: InVision TETHR — iOS interface assets for Photoshop/Sketch) 
+— (link: https://drive.google.com/file/d/0B_-cyP8BvhpNQUVmQWk4UlRSRDg/view?usp=sharing text: Material Design [Android] UI Kit) 
+— (link: http://www.invisionapp.com/now text: InVision NOW — OS agnostic interface assets for Photoshop/Sketch)

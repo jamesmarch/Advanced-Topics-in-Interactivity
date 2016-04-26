@@ -1,0 +1,7 @@
+Title: Low Fidelity Prototypes
+
+----
+
+Text: Create low intensity prototypes of your product using paper and pencil or some other unrefined method. The key focus for this exercise to focus solely on the interactions, not the aesthetics of your product.<br />
+**Paper Prototype Apps**
+Draw it on paper and use POP to make it come to life on your iPhone & iPad.<ul><li><a href="https://popapp.in" target="_blank">POP</a> Free for Android, iOS</li><li><a href="http://getlaunch.com" target="_blank">Launch</a> Free Trial for Android and iOS</li><li><a href="http://mockup.io" target="_blank">Mockup</a> Free basic version for Android and iOS</li><li><a href="http://demonstrate.in" target="_blank">Demonstrate</a> Free basic version for iOS</li></ul>

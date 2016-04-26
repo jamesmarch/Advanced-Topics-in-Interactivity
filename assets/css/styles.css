@@ -1,0 +1,241 @@
+@viewport { width: device-width; zoom: 1; }
+* { margin: 0px; padding: 0px;}
+body {
+	width:100%;
+}
+i { margin:0px 2px; }
+.right {
+    float: right;
+    }
+ul,
+li {
+	list-style: none;
+	line-height: 1.5;
+	}	
+table, th, td {
+    border-collapse: collapse;
+    padding: 5px;
+    border: 0px solid #000;
+}
+img {
+	/* pour obtenir des images responsives */
+	max-width: 100%;
+	height: auto;
+	outline:0;
+	border:0;
+	margin:0;
+	padding:0;
+	}
+/* Règle le comportement des éléments du menu */
+nav {
+	clear: left;
+	float: left;
+	width: 15%;
+	margin:0;
+	padding:0;
+	}
+.separator {
+	clear: left;
+	float: left;
+    margin-left: 25px;
+    width: 5px;
+    }
+	
+	main.main {padding:2%;}
+/* Marges générales */
+.container {
+	margin: 0px;
+	padding: 25px;
+	} 		
+		
+
+	
+	
+/* 1 HEADER */
+.logo img {
+		height: 40px;
+		padding-top: 10px;
+	}
+.title {
+		min-height: 44px;
+	}
+
+
+
+/* 2 NAVIGATION */
+#navigation {}	
+[id="toggle-nav"] {display: none}
+[id="burger"] {display: none}
+nav > input:not(:checked) ~ ul { max-height: 100%;}
+#accordion div {
+	cursor:pointer;
+	line-height: 20px;
+	}
+#accordion ul li {
+	padding-left: 10px;
+	}
+
+
+
+/* 3 : CONTENT */
+section{
+	position: absolute;
+	right: 0;
+	padding: 44px 0 0 0;
+	margin: 0;
+	width: 80%;
+	min-height: 100%;
+	}
+section.large {
+	padding: 0 0 0 0;
+	}
+article {
+	max-width: 768px;
+	padding: 0px;
+	margin: 0;
+	min-height: 100%;
+	}
+/* Slideshow */
+#status ul,
+#status li  {
+	display: inline-block;
+	}
+.small > #slideshow{ 
+ 	max-width: 768px;
+    }
+.large > #slideshow{ 
+	max-width: 100%;
+    vertical-align: middle;
+    }
+
+/* Grid Items */
+li.grid {
+	display: inline-block;
+	vertical-align: top;
+	width: 240px;
+	margin: 0px 5px 25px 0px;
+	padding: 0px;
+	position: relative;
+	}
+li.grid .imagecontainer { 
+	width: 240px;
+	height: 240px;
+	line-height: 240px;
+	margin-bottom: 5px;
+    text-align: center;
+    }
+li.grid img {
+	margin-left: auto;
+	margin-right: auto;
+    vertical-align: middle;
+   	}  	
+/* List Items */
+li.list {
+	display: block;
+	padding-bottom: 0px;
+	}
+	
+	
+	
+	
+
+
+/* 4 SOCIAL */
+.social {}
+	
+	
+	
+	
+/* 5 FOOTER */
+.footer {}
+
+
+
+
+
+
+
+/* MEDIA QUIERIES */
+@media screen and (max-width: 768px) {
+	#description,
+	.separator {
+		display: none;
+		}
+	.title,
+	#navigation,
+	#accordion,
+	.contextuel,
+	.social,
+	.footer,
+	section {
+		clear: both;
+		display: block;
+		width: 100%;
+		margin:0;
+		padding:0;
+		}
+	.title {
+		height: 40px;
+		}
+	.logo img {
+		height: 24px;
+		padding-top: 0px;
+	}
+	.contextuel,
+	section,
+	.social,
+	.footer {
+		border-top: 1px solid #777;
+		}
+	section {
+		position: relative;
+		}		
+	.container {
+		padding: 10px;
+		margin: 0px;
+		}
+	article {
+		max-width: 100%;	
+		}
+/* Menu */
+[id="toggle-nav"] {display:none}
+[id="burger"] {display: block}		
+	#burger {
+		float: right;
+		position: absolute;
+		top:10px;
+		right:10px;
+		cursor:pointer;
+	    text-transform:uppercase;
+		font-size: 16px;
+		}
+	#burger > span {
+		margin-left: 0px;
+		}
+	/* Theming closed nav */	
+	nav > input:not(:checked) ~ ul {
+		max-height:0;
+		overflow: hidden;
+		}
+	/* Theming opened nav */
+	nav > input:checked ~ ul {
+		max-height: 100%;
+		overflow: hidden;
+		}
+	#accordion div {
+		cursor:pointer;
+		margin:0;
+		padding: 10px 0 10px 10px;		    
+		font-size: 14px;
+		border-top: 1px solid #777;		
+		}
+	#accordion ul li {
+		cursor:pointer;
+	    font-weight:300;
+		text-transform:none;
+		margin:0;
+		padding: 10px 0 10px 20px;
+		font-size: 13px;
+		border-top: 1px solid #777;		
+		}
+}

@@ -1,0 +1,7 @@
+Title: Image/Graphic Assets
+
+----
+
+Text: Develop a user interface kit for your product. What do your icons look like? What is your color scheme? What typefaces are you using? Does your product have a logo? Does your product have a centralized navigation?<br />
+The user interface kit should be submitted as a PDF containing  all asset that you will endeavor to use in your Final Product Demonstration.<br />
+Examples of user interface kits can be found (link: http://graphicburger.com/ui-kits/ text: here).

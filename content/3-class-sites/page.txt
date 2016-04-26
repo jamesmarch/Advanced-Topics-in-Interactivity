@@ -1,0 +1,39 @@
+Title: Class Sites
+
+----
+
+Text: Documentation sites will reside here.<br />
+<br />
+*2016*
+(link: http://chiu4003.tumblr.com text: Amy)
+(link: http://chanbanan.tumblr.com/ text: Chandler)
+Allen
+(link: http://4003.karenkeung.com text: Karen)
+(link: http://medium.com/@cindyla.4003 text: Cindy)
+<s>Daria</s>
+(link: http://samleeprocess.tumblr.com text: Samantha)
+(link: http://advanced-topics-jlepiesza.tumblr.com/ text: Joanna)
+(link: http://autumn4003progress.tumblr.com text: Autumn)
+(link: http://kevin4003.tumblr.com text: Kevin)
+<s>Christina</s>
+(link: http://50purrcent.tumblr.com text: Demi)
+(link: https://shielaysdn4003.wordpress.com text: Shiela)
+
+<br />
+*2015*
+(link: http://taylormadesystems.tumblr.com/ text: Taylor David)
+(link: http://emmersonicysdn4003.tumblr.com/ text: Taylor Emmerson)
+(link: http://calvin-fennell.com text: Calvin Fennell)
+(link: http://michfok-ysdn4003-process.tumblr.com text: Michelle Fok)
+<s>Chelsie Grant</s>
+(link:  http://ramishassan.com/wip/icecream.html text: Ramis Hassan)
+(link: http://ginak1m.tumblr.com/ text: Gina Kim)
+<s>(link: http://kinahjim.tumblr.com/ text: Jinah Kim)</s>
+(link: http://forgeisd4003.tumblr.com/ text: Ryan Klafuric)
+(link: http://daniellemclean93.tumblr.com/ text: Danielle McLean)
+(link: https://mmsinteractivity3.wordpress.com/michaels-interactive-design-and-systems-blog/ text: Michael Mifsud-Sweeney)
+<S>(link: http://minaysdn.tumblr.com/ text: Mina Moon)</s><br />
+(link: http://4003.farewellangelina.com text: Angelina Tjhung)<br />
+Matthew Velez<br />
+(link: http://www.melanieawong.com/ysdn4003 text: Melanie Wong)<br />
+(link: http://iotaapp.tumblr.com text: Skye Zhang)

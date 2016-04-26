@@ -1,0 +1,10 @@
+Title: User Scenarios
+
+----
+
+Text: Develop at least 2 user scenarios, providing examples of how users originally engage with your product and follow through various steps within a given scenario to achieve his or her goals.<br />
+**User Scenario Articles**
+- (link: https://medium.com/@jonatisokon/a-framework-for-user-stories-bc3dc323eca9 text: A Framework for Modern User Stories)
+- (link: https://medium.com/the-job-to-be-done/replacing-the-user-story-with-the-job-story-af7cdee10c27 text: Replacing the User Story with the Job Story)
+- (link: Designing User Scenarios for Mobile and Transit Experiences text: https://medium.com/@stevepepple/designing-user-scenarios-for-mobile-and-transit-experiences-64e396f254fa)
+- (link: https://medium.com/@ideasindigital/empowering-the-user-through-ux-design-a8a55af33ceb text: Empowering the User through UX Design)

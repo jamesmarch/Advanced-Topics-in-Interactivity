@@ -1,0 +1,6 @@
+Title: Final Product Demonstration
+
+----
+
+Text: Design a presentation package for your interactive product; treat this as if it were a high stakes client presentation. This final package is meant to highlight the core features of your product in an accessible and understandable way.<br />
+All projects may include a microsite that highlights the project and its features (e.g., <a href="http://digital-locker.design.yorku.ca/3006Af12/oliviatruong/project3tor/index.html">Travation</a>). You may also use other media/strategies to highlight the product and visually narrate the project (e.g., a walkthrough video or image slideshow with scenarios and screen shots). You may also make print media to extend the project (e.g., <a href="http://digital-locker.design.yorku.ca/3005Mw12/Team5/pdfs/YUCareers_PromoPosters.pdf">Cheese Weiners</a>). This final package is intended to demonstrate how you arrived at a unique solution to your problem.

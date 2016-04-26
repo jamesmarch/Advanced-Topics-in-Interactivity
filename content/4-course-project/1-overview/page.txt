@@ -1,0 +1,30 @@
+Title: Overview
+
+----
+
+Text: *The Plan*
+For this term, each of you will work individually to design and develop an interactive product of your choice. You will demonstrate through research and testing that the product makes a marked improvement in its usability, accessibility and intuitiveness. <br />
+Have you ever asked yourself: “why is something made like this and not like this? Why is this more difficult than it should be? How could something so obvious be overlooked? Why can’t a well-educated adult understand this?” <br />
+This course provides you with the time and resources to “scratch that itch”—to improve upon an interaction between a human and an electronic in a positive and supportive environment.<br />
+*The Workback Schedule*
+Research, planning, visualizing and prototyping will all be part of the process. This process will be broken down into phases:<br />
+**Design Brief**
+5% — Due Week 2<br />
+**Competitive Analysis**
+5% — Due Week 3<br />
+**User Scenarios**
+5% — Due Week 4<br />
+**Flowcharts**
+10% — Due Week 5<br />
+**Low Fidelity Prototypes**
+5% — Due Week 6<br />
+**Image/Graphic Assets**
+10% — Due Week 7<br />
+**High Fidelity Prototypes**
+15% — Due Week 10<br />
+**Final Product Demonstrations**
+30% — Due Week 12<br />
+**Participation**
+10% — Assessed Each Week<br />
+**Seminar Discussions**
+5% — Assessed During Assigned Week<br />

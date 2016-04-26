@@ -1,0 +1,7 @@
+Title: Site Documentation
+
+----
+
+Text: Each student will set up and maintain a website for documenting their individual coursework. You may use whichever web service you prefer. This site will commence in the first week and is the main venue for presenting and submitting project work.<br />
+Students are expected to apply a balance of visual appeal, usability and interaction to consider a quality user experience. This site will expand over the term to reflect the regular addition of material.<br />
+Each week, your site documentation will serve as our main point of discussion. Include all process within this document.

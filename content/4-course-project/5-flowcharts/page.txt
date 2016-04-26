@@ -1,0 +1,7 @@
+Title: Flowcharts
+
+----
+
+Text: Create a flowchart detailing all possible interactions a user may undertake when using your product.<br />
+**Flowcharting Resource**
+- (link: https://medium.com/@wixelhq/streamlining-the-design-process-user-flow-to-final-design-using-sketch-ba71d2355bf9 text: Streamlining the Design Process: User Flow to Final Design using Sketch)

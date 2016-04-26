@@ -1,0 +1,16 @@
+Title: Seminar Discussions
+
+----
+
+Text: Each week, a team member or a pair will pick one topic and start a light discussion surrounding it. Find a maximum of 3 images to show and prepare 3 questions to pose to the class. You may feel free to be as general or specific in your inquisitions/research as you wish.
+<br />
+**Seminar Discussions**
+*Interactive Storytelling*—how do we create narratives in the digital realm?
+*Post-Browser/Post-Apps*—what are we moving towards in user interface design?
+*Building a Trustworthy Design Process*—what makes a great creative environment?
+*Navigation*—what are some advantages/disadvantages to common navigation options?
+*Typography on Screen*—what is the new-new typography for 2016?
+*Settings*—how do different Operating Systems deal with their Settings interface?
+*Dynamic Branding*—how can we use digital tools to make branding more fluid and alive?
+*The Undesigned Web*—is Readability and Pocket good for the design of the future?
+*Is coding the future or the past?*—how does software engineering and development fit into the future landscape of technology for the web?
